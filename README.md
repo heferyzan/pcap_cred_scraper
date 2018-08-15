@@ -1,4 +1,4 @@
-Credential Harvesting POST Submission Detection
+# Credential Harvesting POST Submission Detection
 
 This script reads PCAP files and searches for HTTP POST messages that contain potential user credentials 
  
